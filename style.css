@@ -1,0 +1,13 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Mono:wght@600;700;800&display=swap');
+p{
+  font-size: 70px;
+}
+.font1{
+  font-family: 'Noto Sans Mono', monospace;
+}
+
+
